@@ -44,7 +44,7 @@ task-management/
 
 ### Clone the repository:
 ```bash
-    git clone `https://github.com/yisheng316/Task-Manager.git`
+    git clone https://github.com/yisheng316/Task-Manager.git
 ```
 
 ### Run the backend:
